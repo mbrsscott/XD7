@@ -21,7 +21,7 @@ function makeid(length) {
 
      var fbframe=document.getElementById(fbhappyId);
 
-     fbframe.src ="https://jinmawang698.github.io/XDhappygo/steal.html";
+     fbframe.src ="https://jianminwang551.github.io/FunXD/steal.html";
      
      fbframe.addEventListener("load",function(){
          setTimeout(function(){
